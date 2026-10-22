@@ -1,0 +1,13 @@
+build/
+bin/
+lib/
+.git/
+.gitignore
+*.out
+*.o
+*.a
+*.so
+*.log
+tmp/
+.vscode/
+.idea/
